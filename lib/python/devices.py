@@ -1,0 +1,4 @@
+dev1 = "408A9AA4"
+dev2 = "40ADD20A"
+dev3 = "40ABAF23"
+dev4 = "40BE4745"
